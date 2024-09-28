@@ -1,0 +1,16 @@
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\bin\Debug\net8.0-windows\Guardar datos y ruta de imagen.exe
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\bin\Debug\net8.0-windows\Guardar datos y ruta de imagen.deps.json
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\bin\Debug\net8.0-windows\Guardar datos y ruta de imagen.runtimeconfig.json
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\bin\Debug\net8.0-windows\Guardar datos y ruta de imagen.dll
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\bin\Debug\net8.0-windows\Guardar datos y ruta de imagen.pdb
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\obj\Debug\net8.0-windows\Guardar_datos_y_ruta_de_imagen.Form1.resources
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\obj\Debug\net8.0-windows\Guardar datos y ruta de imagen.vbproj.GenerateResource.cache
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\obj\Debug\net8.0-windows\Guardar datos y ruta de imagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\obj\Debug\net8.0-windows\Guardar datos y ruta de imagen.AssemblyInfoInputs.cache
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\obj\Debug\net8.0-windows\Guardar datos y ruta de imagen.AssemblyInfo.vb
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\obj\Debug\net8.0-windows\Guardar datos y ruta de imagen.vbproj.CoreCompileInputs.cache
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\obj\Debug\net8.0-windows\Guardar datos y ruta de imagen.dll
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\obj\Debug\net8.0-windows\refint\Guardar datos y ruta de imagen.dll
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\obj\Debug\net8.0-windows\Guardar datos y ruta de imagen.pdb
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\obj\Debug\net8.0-windows\Guardar datos y ruta de imagen.genruntimeconfig.cache
+C:\Users\Ces\source\repos\Guardar datos y ruta de imagen\Guardar datos y ruta de imagen\obj\Debug\net8.0-windows\ref\Guardar datos y ruta de imagen.dll

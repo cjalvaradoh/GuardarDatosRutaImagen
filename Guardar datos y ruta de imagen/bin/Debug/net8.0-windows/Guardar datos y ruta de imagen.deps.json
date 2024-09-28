@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Guardar datos y ruta de imagen/1.0.0": {
+        "runtime": {
+          "Guardar datos y ruta de imagen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guardar datos y ruta de imagen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
